@@ -7,7 +7,7 @@ date: 2024-9-09 20:55:00 +0800
 categories: [Projects]
 tags: [Database, Machine Learning]
 pin: true
-media_subpath: '/img/youtubeanalysis/'
+media_subpath: '/assets/img/youtubeanalysis/'
 ---
 
 ## Background
