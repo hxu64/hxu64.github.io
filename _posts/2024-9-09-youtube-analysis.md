@@ -12,9 +12,9 @@ media_subpath: '/assets/img/youtubeanalysis/'
 
 ## Background
 
-Leading up to Christmas break of 2024, I decided to create a [YouTube Channel](https://www.youtube.com/@halcyK) to gain experience creating content and to keep myself occupied over the break. Little did I know, this project would soon take up almost all of my time, and I didn't end up getting to interact with the community as much as I would've liked. I'll detail my experiences as a YouTuber in a future blog post.
+Leading up to the Winter break of 2023, I decided to create a [YouTube Channel](https://www.youtube.com/@halcyK) to gain experience creating content and to keep myself occupied over the break. Little did I know, this project would soon take up almost all of my time, and I didn't end up getting to interact with the community as much as I would've liked. I'll detail my experiences as a YouTuber in a future blog post.
 
-In order to ensure that my content was well-received and to obtain feedback on my work, I needed to gather actionable insights from the comments section. Unfortunately because of [YouTube's decision to 'remove' dislikes](https://blog.youtube/news-and-events/update-to-youtube/), most videos recieve disporportionately more likes than dislikes, which makes the like-to-dislike ratio no longer a good metric.
+In order to ensure that my content was well-received and to obtain feedback on my work, I needed to gather actionable insights from the comments section. Unfortunately because of [YouTube's decision to 'remove' dislikes](https://blog.youtube/news-and-events/update-to-youtube/), most videos now recieve disporportionately more likes than dislikes, which makes the like-to-dislike ratio no longer a good metric for determining the overall reception of your content.
 
 Initially, it's feasiable for creators to read all of their comments. However, as your channel grows, it becomes much more difficult to keep up with your community, which is why I decided to take it up to myself to develope a solution for obtaining real-time actionable data from these comments, by implementing my own real-time sentiment analyzer for YouTube comments, to accurately guage the reception of my content.
 
