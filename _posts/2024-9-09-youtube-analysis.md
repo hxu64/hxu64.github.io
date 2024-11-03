@@ -16,7 +16,7 @@ Leading up to the Winter break of 2023, I decided to create a [YouTube Channel](
 
 In order to ensure that my content was well-received and to obtain feedback on my work, I needed to gather actionable insights from the comments section. Unfortunately because of [YouTube's decision to 'remove' dislikes](https://blog.youtube/news-and-events/update-to-youtube/), most videos now recieve disporportionately more likes than dislikes, which makes the like-to-dislike ratio no longer a good metric for determining the overall reception of your content.
 
-Initially, it's feasiable for creators to read all of their comments. However, as your channel grows, it becomes much more difficult to keep up with your community, which is why I decided to take it up to myself to develope a solution for obtaining real-time actionable data from these comments, by implementing my own real-time sentiment analyzer for YouTube comments, to accurately guage the reception of my content.
+Initially, it is feasible for creators to read all of their comments. However, as a channel grows, it becomes a daunting task to keep up with your community while simultaneously producing content, which is why I decided to to proceed to develop a solution for obtaining real-time actionable data from these comments, by implementing my own real-time sentiment analyzer for YouTube comments, to accurately guage the reception of a video.
 
 ## Architecture
 
